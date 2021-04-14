@@ -1,0 +1,10 @@
+.project {
+  width: 400px;
+  margin: 15px 0px;
+  border: lightgrey 1px solid;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
